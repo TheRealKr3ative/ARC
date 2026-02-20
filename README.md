@@ -1,4 +1,3 @@
---[[
     =====================================================================================
                                     Welcome to ARC!
     =====================================================================================
@@ -643,4 +642,3 @@
     • Initial release.
     • Session start / end, FetchArchiveAsync, ModifyArchiveAsync,
       ModifyArchiveValueAsync, ArchivePlayerAsync, basic encode/decode.
-]]
